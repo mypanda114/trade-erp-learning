@@ -1,5 +1,9 @@
 # 内外贸一体化管理系统（学习项目）
 
+[![Status](https://img.shields.io/badge/status-archived-lightgrey.svg)]()
+
+> ⚠️ **项目状态**：此项目已完成，不再维护，已归档。内容仅供学习参考，请勿用于生产环境。
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.6+](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
 [![Code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
